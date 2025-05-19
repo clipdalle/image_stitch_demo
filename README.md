@@ -45,18 +45,34 @@ python stitch_demo.py
 4. 详细的例子
 
 输入图片：
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <div>
-        <img src="./samples/mountain/100-0023_img.jpg" width="300" alt="待拼接图1">
+        <img src="./samples/mountain/100-0023_img.jpg" width="250" alt="待拼接图1">
         <p style="text-align: center;">待拼接图1</p>
     </div>
     <div>
-        <img src="./samples/mountain/100-0024_img.jpg" width="300" alt="待拼接图2">
+        <img src="./samples/mountain/100-0024_img.jpg" width="250" alt="待拼接图2">
         <p style="text-align: center;">待拼接图2</p>
     </div>
     <div>
-        <img src="./samples/mountain/100-0025_img.jpg" width="300" alt="待拼接图3">
+        <img src="./samples/mountain/100-0025_img.jpg" width="250" alt="待拼接图3">
         <p style="text-align: center;">待拼接图3</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/100-0038_img.jpg" width="250" alt="待拼接图4">
+        <p style="text-align: center;">待拼接图4</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/100-0039_img.jpg" width="250" alt="待拼接图5">
+        <p style="text-align: center;">待拼接图5</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/100-0040_img.jpg" width="250" alt="待拼接图6">
+        <p style="text-align: center;">待拼接图6</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/101-0104_img.jpg" width="250" alt="待拼接图7">
+        <p style="text-align: center;">待拼接图7</p>
     </div>
 </div>
 
