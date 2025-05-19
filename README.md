@@ -42,6 +42,30 @@ python stitch_demo.py
    - 程序会在当前目录生成拼接后的图片
    - 输出文件名为 `mountain_result.jpg`
 
+4. 详细的例子
+
+输入图片：
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <div>
+        <img src="./samples/mountain/100-0023_img.jpg" width="300" alt="待拼接图1">
+        <p style="text-align: center;">待拼接图1</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/100-0024_img.jpg" width="300" alt="待拼接图2">
+        <p style="text-align: center;">待拼接图2</p>
+    </div>
+    <div>
+        <img src="./samples/mountain/100-0025_img.jpg" width="300" alt="待拼接图3">
+        <p style="text-align: center;">待拼接图3</p>
+    </div>
+</div>
+
+输出结果：
+<div style="text-align: center;">
+    <img src="./mountain_result.jpg" width="600" alt="拼接结果">
+    <p>拼接结果</p>
+</div>
+
 ## 目录结构
 
 ```
