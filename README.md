@@ -1,6 +1,7 @@
 # Image Stitching Demo
 
-这是一个使用Python实现的图像拼接演示程序，基于OpenCV和stitching库。该程序可以将多张图片拼接成一张全景图。
+这是一个使用Python实现的图像拼接演示程序，基于OpenCV和stitching库(https://github.com/OpenStitching/stitching)。
+该程序可以将多张图片拼接成一张全景图。
 
 ## 功能特点
 
